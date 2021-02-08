@@ -11,7 +11,7 @@ In 2011, I attempted to verify this account based on the course of the conjuncti
 
 The model that emerges from this account has proven to be extremely rigid (mathematically speaking) - the only variable of adjustment being the speed of the Magi's caravan. But even there we do not have much room for adjustment.
 
-Considering this model with rigid parameters, the question is: **Is it possible that this event happened on December 25 of the year 7 BC?**
+Considering this model and its parameters, the question is: **Is it possible that this event happened on December 25 of the year 7 BC?**
 
 ## Content
 
