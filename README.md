@@ -27,7 +27,7 @@ The submission file contains:
 Any question, suggestion or comment is welcomed.
 
 ## References:
-[1] Marcel Bodor (Article - 2020). Adoration of the Magi - Where are we 2026 later? (EN - FR - ES)
+[1] Marcel Bodor (Article 2020). Adoration of the Magi - Where are we 2026 later? (EN - FR - ES)
 
 [2] Marcel Bodor (Thesis 2011). L’Adoration des mages - La Sainte Bible et l’Astronomie. Copyright France© Ref: T7V41B6 (FR)
 
