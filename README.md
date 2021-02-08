@@ -13,7 +13,7 @@ The model that emerges from this account has proven to be extremely rigid (mathe
 
 Considering this model with rigid parameters, the question is: **Is it possible that this event happened on December 25 of the year 7 BC?**
 
-## content
+## Content
 
 The submission file contains:
 - A data file AoM.mat : Jupiter ephemeris file (data), map of Jerusalem (map)...
@@ -28,9 +28,7 @@ Any question, suggestion or comment is welcomed.
 
 ## References:
 [1] Marcel Bodor (Article - 2020). Adoration of the Magi - Where are we 2026 later? (EN - FR - ES)
-
 [2] Marcel Bodor (Thesis 2011). L’Adoration des mages - La Sainte Bible et l’Astronomie. Copyright France© Ref: T7V41B6 (FR) 
-
 [3] James Evans “The History and Practice of ancient astronomy" Oxford University Press 1998.
 
 Submitted to Vatican Observatory on September 14, 2020.
