@@ -4,6 +4,8 @@ When was the Adoration of the Magi?
 
 Here is a mathematical model that attempts to answer this question.
 
+[![View THE ADORATION OF THE MAGI  on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/87097-the-adoration-of-the-magi)
+
 ## Summary
 
 The Evangelist Matthew in Chapter II tells us the story of the Magi arriving in Jerusalem on their way to Bethlehem. After their meeting with King Herod the Great, they await the rising of the star that guides them. Then they make the trip to Bethlehem.
